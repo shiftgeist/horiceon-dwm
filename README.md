@@ -11,6 +11,7 @@ May the force of git be with you.
 | centeredwindowname | A little patch to center the WM_NAME of the currently selected window on the status bar.           | [source](https://dwm.suckless.org/patches/centeredwindowname/) |
 | cyclelayouts       | Cycles through all avaiable layouts using `MOD-CTRL-,` and `MOD-CTRL-.`.                           | [source](https://dwm.suckless.org/patches/cyclelayouts/)       |
 | fibonacci          | This patch adds new layout that arranges all windows in Fibonacci tiles.                           | [source](https://dwm.suckless.org/patches/fibonacci/)          |
+| fullscreen         | Applies the monocle layout with the focused client on top and hides the bar.                       | [source](https://dwm.suckless.org/patches/fullscreen/)         |
 
 ## Branches
 
