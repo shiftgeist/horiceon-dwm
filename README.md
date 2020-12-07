@@ -20,3 +20,7 @@ May the force of git be with you.
 - `main` = master + patches + config
 - `master` - copy of `https://git.suckless.org/dwm`
 - `patch-\*` - patch applied to master
+
+## Usefull (not included) patches
+
+mpdcontrol, scratchpad, swallow and warp
