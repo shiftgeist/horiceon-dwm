@@ -12,6 +12,7 @@ May the force of git be with you.
 | cyclelayouts       | Cycles through all avaiable layouts using `MOD-CTRL-,` and `MOD-CTRL-.`.                                  | [source](https://dwm.suckless.org/patches/cyclelayouts/)       |
 | fibonacci          | Adds new layout that arranges all windows in Fibonacci tiles.                                             | [source](https://dwm.suckless.org/patches/fibonacci/)          |
 | fullscreen         | Applies the monocle layout with the focused client on top and hides the bar.                              | [source](https://dwm.suckless.org/patches/fullscreen/)         |
+| movestack          | This plugin allows you to move clients around in the stack and swap them with the master.                 | [source](https://dwm.suckless.org/patches/movestack/)          |
 | uselessgap         | Adds useless gaps around windows and removes gaps and borders when in monocle mode for aesthetic purpose. | [source](https://dwm.suckless.org/patches/uselessgap/)         |
 
 ## Branches
