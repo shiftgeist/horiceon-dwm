@@ -1,6 +1,6 @@
 # [Horiceon](https://github.com/shiftgeist/horiceon) dwm fork
 
-May the force of git be with you.
+May the source be with you.
 
 ## Included patches
 
@@ -14,6 +14,20 @@ May the force of git be with you.
 | fullscreen         | Applies the monocle layout with the focused client on top and hides the bar.                              | [source](https://dwm.suckless.org/patches/fullscreen/)         |
 | movestack          | This plugin allows you to move clients around in the stack and swap them with the master.                 | [source](https://dwm.suckless.org/patches/movestack/)          |
 | uselessgap         | Adds useless gaps around windows and removes gaps and borders when in monocle mode for aesthetic purpose. | [source](https://dwm.suckless.org/patches/uselessgap/)         |
+
+## Dependencies
+
+`dmenu`, `slock`
+
+## Install
+
+`make` and then `make install`
+
+## Features
+
+- [x] Panda theme
+- [ ] Media control
+- [ ] Update `dwm.1` key definitions
 
 ## Branches
 
