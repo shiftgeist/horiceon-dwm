@@ -17,7 +17,7 @@ May the source be with you.
 
 ## Dependencies
 
-`dmenu`, `slock`
+`dmenu` `slock`
 
 ## Install
 
@@ -26,8 +26,9 @@ May the source be with you.
 ## Features
 
 - [x] Panda theme
+- [ ] Keep default dwm keybindings and don't override defaults (super 2nd mod: `#define MOD2KEY Mod4Mask`)
+  - [ ] Add custom keyboard bindings to `dwm.1` key definitions
 - [ ] Media control
-- [ ] Update `dwm.1` key definitions
 
 ## Branches
 
